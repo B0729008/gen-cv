@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AZURE_OPENAI_ENDPOINT": "https://ly0125-azureopenai.openai.azure.com/",
+    "AZURE_OPENAI_API_KEY": "cbffae68df39457f8bf9fd813acb02d9",
+    "AZURE_OPENAI_CHAT_DEPLOYMENT" : "gpt-35-turbo",
+    "AZURE_OPENAI_EMBEDDINGS_DEPLOYMENT" : "text-embedding-ada-002",
+    "AZURE_OPENAI_API_VERSION" : "2023-07-01-preview",
+    "AZURE_SPEECH_REGION": "westeurope",
+    "AZURE_SPEECH_API_KEY": "3e090806e84e4ed39b326c48571a1a9f "
+  }
+}
