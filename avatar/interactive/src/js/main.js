@@ -16,7 +16,7 @@ var system_prompt = `You are an AI assistant focused on delivering brief product
 const TTSVoice = "zh-CN-XiaochenMultilingualNeural"
 
 // //const CogSvcRegion = "westeurope" // Fill your Azure cognitive services region here, e.g. westus2
-const CogSvcRegion = "westus2" // Fill your Azure cognitive services region here, e.g. westus2
+const CogSvcRegion = "westeurope" // Fill your Azure cognitive services region here, e.g. westus2
 
 const IceServerUrl = "turn:relay.communication.microsoft.com:3478" // Fill your ICE server URL here, e.g. turn:turn.azure.com:3478
 let IceServerUsername
